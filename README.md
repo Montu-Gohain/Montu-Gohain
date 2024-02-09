@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **A SaaS Product**
 
-- 🌱 I’m currently learning **Websockets, AWS**
+- 🌱 I’m currently learning **Automation Testing with Selenium and Webdriver.**
 
 - 💬 Ask me about **React, Node, Javascript**
 
