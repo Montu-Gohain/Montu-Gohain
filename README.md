@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **A SaaS Product**
 
-- 🌱 I’m currently learning **Automation Testing with Selenium and Webdriver.**
+- 🌱 I’m currently learning **Vue JS with Nuxt and NestJS**
 
 - 💬 Ask me about **React, Node, Javascript**
 
