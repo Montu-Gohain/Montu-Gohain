@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=montu-gohain" alt="montu-gohain" /></a> </p>
 
-- 🔭 I’m currently working on **A SaaS Product**
+- 🔭 I’m currently learning and building  **DevOps** Projects
 
-- 🌱 I’m currently learning **Vue JS with Nuxt and NestJS**
+- 🌱 I’m currently learning **Java Spring Boot, Docker, K8S, AWS**
 
 - 💬 Ask me about **React, Node, Javascript**
 
