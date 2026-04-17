@@ -1,10 +1,5 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/montu-gohain)
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there!+I'm+Montu+Gohain+👋;Fullstack+Dev+%7C+DevOps+Learner+%7C+Pushup+Enjoyer+💪" alt="Typing SVG" />
-
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=montu-gohain&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 &nbsp;
@@ -128,22 +123,6 @@ fun_fact:   I do pushups when I get bored 💪
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<!-- Uses a volunteer mirror — more reliable than the overloaded primary vercel app -->
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=montu-gohain&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
-
-<!-- If trophies above go blank, swap the domain with one of these mirrors:
-  https://github-profile-trophy-fork-two.vercel.app
-  https://github-profile-trophy-winning.vercel.app
-  https://github-profile-trophy-kannan.vercel.app
--->
-
----
 
 ## 📈 Contribution Graph
 
@@ -155,6 +134,3 @@ fun_fact:   I do pushups when I get bored 💪
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+⭐;Feel+free+to+reach+out+anytime+🚀" alt="Footer Typing" />
-</div>
