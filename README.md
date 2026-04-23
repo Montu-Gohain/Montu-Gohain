@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/montu-gohain">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1jbWxwcmhpeHd1eGlkaHJ3djcwN3Y3dW9td2dtNmhocGpqZmV1cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eATt3b9TKBfB2l0z4G/giphy.gif" width="auto" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWh2d2VpZ2lxdmdxaWs4NXF3eDl3cHp6ZXE0a3d6MmlvcWp4cTJjNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rA326hRx9PsB2/giphy.gif" width="auto" />
   </a>
 </p>
 
