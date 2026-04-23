@@ -1,5 +1,8 @@
-[![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2p4Nnlic2RtcjQ2dHFuY2pqMnc2MHNha2Q2MzlubjFremVoc3VlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/116wwYf3ajIvrG/giphy.gif)](https://github.com/montu-gohain)
-
+<p align="center">
+  <a href="https://github.com/montu-gohain">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2p4Nnlic2RtcjQ2dHFuY2pqMnc2MHNha2Q2MzlubjFremVoc3VlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/116wwYf3ajIvrG/giphy.gif" width="100%" />
+  </a>
+</p>
 ---
 
 ## 🧑‍💻 About Me
