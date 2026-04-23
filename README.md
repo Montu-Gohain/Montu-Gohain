@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/montu-gohain">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2p4Nnlic2RtcjQ2dHFuY2pqMnc2MHNha2Q2MzlubjFremVoc3VlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/116wwYf3ajIvrG/giphy.gif" width="100%" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1jbWxwcmhpeHd1eGlkaHJ3djcwN3Y3dW9td2dtNmhocGpqZmV1cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eATt3b9TKBfB2l0z4G/giphy.gif" width="100%" />
   </a>
 </p>
 ---
@@ -11,7 +11,7 @@
 name: Montu Gohain
 location: India 🇮🇳
 role: Fullstack Developer
-focus: DevOps | Cloud | Backend Systems
+focus: DevOps | Cloud | FullStack System Design
 currently:
   - 🔭 Building & learning DevOps projects
   - 🌱 Studying Java Spring Boot, Docker, Kubernetes & AWS
