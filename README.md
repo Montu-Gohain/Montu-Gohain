@@ -1,20 +1,20 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/montu-gohain)
+[![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2p4Nnlic2RtcjQ2dHFuY2pqMnc2MHNha2Q2MzlubjFremVoc3VlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/116wwYf3ajIvrG/giphy.gif)](https://github.com/montu-gohain)
 
 ---
 
 ## 🧑‍💻 About Me
 
 ```yaml
-name:       Montu Gohain
-location:   India 🇮🇳
-role:       Fullstack Developer
-focus:      DevOps | Cloud | Backend Systems
+name: Montu Gohain
+location: India 🇮🇳
+role: Fullstack Developer
+focus: DevOps | Cloud | Backend Systems
 currently:
   - 🔭 Building & learning DevOps projects
   - 🌱 Studying Java Spring Boot, Docker, Kubernetes & AWS
   - 💬 Happy to talk about React, Node.js, JavaScript
-contact:    leomontugohain@gmail.com
-fun_fact:   I do pushups when I get bored 💪
+contact: leomontugohain@gmail.com
+fun_fact: I do pushups when I get bored 💪
 ```
 
 ---
@@ -114,7 +114,6 @@ fun_fact:   I do pushups when I get bored 💪
 
 ---
 
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -122,4 +121,3 @@ fun_fact:   I do pushups when I get bored 💪
 </div>
 
 ---
-
