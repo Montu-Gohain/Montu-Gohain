@@ -9,7 +9,7 @@
 
 ```yaml
 name: Montu Gohain
-location: India 🇮🇳
+location: Assam,India 🇮🇳
 role: Fullstack Developer
 focus: DevOps | Cloud | Backend Systems
 currently:
