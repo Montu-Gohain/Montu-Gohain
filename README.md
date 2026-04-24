@@ -1,6 +1,12 @@
 <p align="center">
   <a href="https://github.com/montu-gohain">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWh2d2VpZ2lxdmdxaWs4NXF3eDl3cHp6ZXE0a3d6MmlvcWp4cTJjNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rA326hRx9PsB2/giphy.gif" width="100%" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQxd2M2ZzNxa3c3bTk3ajA4azd0OGhkYXJqN2x3c2g3emQzbzFmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="32%" />
+  </a>
+  <a href="https://github.com/montu-gohain">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xvYWg2MDFwY2hvdGg4aGc4cG12dnVuN3c2anJxd2w5cjVtanBhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="32%" />
+  </a>
+  <a href="https://github.com/montu-gohain">
+   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRmd2RhdWZ3YWg2ZGQ4YjR3amtmd2ZiMGo3ZWd5NDYxNXRsanhtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nEFaVNgFGGRQdWbmRq/giphy.gif" width="32%" />
   </a>
 </p>
 
